@@ -1,0 +1,12 @@
+[submodule "ai-server"]
+	path = ai-server
+	url = https://github.com/choiminji-020102/sodam-ai-server.git
+	branch = main
+[submodule "server"]
+	path = server
+	url = https://github.com/choiminji-020102/sodam-server.git
+	branch = main
+[submodule "app"]
+	path = app
+	url = https://github.com/choiminji-020102/sodam-app.git
+	branch = main
